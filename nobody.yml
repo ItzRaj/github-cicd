@@ -9,5 +9,5 @@ jobs:
   say-hello:
     runs-on: ubuntu-latest
     steps:
-      - name: Print Hello
+      - name: Print Hello pedro
         run: echo "Hello World Pedro!"
