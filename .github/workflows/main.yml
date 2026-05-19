@@ -5,7 +5,7 @@ on:
   push:
     branches: [ "main" ]
 
-jobs:
+jbs:
   say-hello:
     runs-on: ubuntu-latest
     steps:
